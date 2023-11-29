@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/larziz/Dev/CPP/MarchingCubes/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/OpenGL_Template.dir/src/glad.c.o -c /home/larziz/Dev/CPP/MarchingCubes/src/glad.c",
+  "file": "/home/larziz/Dev/CPP/MarchingCubes/src/glad.c"
+},
+{
+  "directory": "/home/larziz/Dev/CPP/MarchingCubes/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/OpenGL_Template.dir/src/main.cpp.o -c /home/larziz/Dev/CPP/MarchingCubes/src/main.cpp",
+  "file": "/home/larziz/Dev/CPP/MarchingCubes/src/main.cpp"
+},
+{
+  "directory": "/home/larziz/Dev/CPP/MarchingCubes/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/OpenGL_Template.dir/src/controls.cpp.o -c /home/larziz/Dev/CPP/MarchingCubes/src/controls.cpp",
+  "file": "/home/larziz/Dev/CPP/MarchingCubes/src/controls.cpp"
+},
+{
+  "directory": "/home/larziz/Dev/CPP/MarchingCubes/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/OpenGL_Template.dir/src/marchingCubes.cpp.o -c /home/larziz/Dev/CPP/MarchingCubes/src/marchingCubes.cpp",
+  "file": "/home/larziz/Dev/CPP/MarchingCubes/src/marchingCubes.cpp"
+},
+{
+  "directory": "/home/larziz/Dev/CPP/MarchingCubes/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/OpenGL_Template.dir/src/noise.cpp.o -c /home/larziz/Dev/CPP/MarchingCubes/src/noise.cpp",
+  "file": "/home/larziz/Dev/CPP/MarchingCubes/src/noise.cpp"
+}
+]

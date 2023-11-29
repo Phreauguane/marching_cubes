@@ -1,0 +1,2 @@
+/usr/bin/ar qc libEBO.a CMakeFiles/EBO.dir/src/EBO.cpp.o
+/usr/bin/ranlib libEBO.a

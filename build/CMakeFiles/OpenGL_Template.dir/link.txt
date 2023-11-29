@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/OpenGL_Template.dir/src/glad.c.o CMakeFiles/OpenGL_Template.dir/src/main.cpp.o CMakeFiles/OpenGL_Template.dir/src/controls.cpp.o CMakeFiles/OpenGL_Template.dir/src/marchingCubes.cpp.o CMakeFiles/OpenGL_Template.dir/src/noise.cpp.o -o OpenGL_Template  -lglfw /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 

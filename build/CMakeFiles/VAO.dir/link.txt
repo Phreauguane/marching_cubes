@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVAO.a CMakeFiles/VAO.dir/src/VAO.cpp.o
+/usr/bin/ranlib libVAO.a

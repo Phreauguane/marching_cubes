@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVBO.a CMakeFiles/VBO.dir/src/VBO.cpp.o
+/usr/bin/ranlib libVBO.a
